@@ -2,8 +2,8 @@ package com.shivam.narsh;
 
 import java.util.Scanner;
 
-public class HollowLeftTrianglePattern2 {
-
+public class HollowLeftTrianglePattern2  
+{
 	public static void main(String[] args) {
 		System.out.println("Enter any num : ");
 		Scanner scn = new Scanner(System.in);
@@ -27,9 +27,7 @@ public class HollowLeftTrianglePattern2 {
 			else {
 				star--;
 				space++;
-			}
-			
+			}	
 		}
 	}
-
 }
