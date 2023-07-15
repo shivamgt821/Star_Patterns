@@ -1,6 +1,6 @@
 package com.shivam.narsh;
 
-import java.util.Scanner;
+import java.util.Scanner ;
 
 public class HollowLeftTrianglePattern2  
 {
