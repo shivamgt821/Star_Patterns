@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class LeftTrianglePattern {
 
-	public static void main(String[] args) {
+	public static void main(String[] args)  {
 		System.out.println("Enter any num : ");
 		Scanner scn = new Scanner(System.in);
 		int n = scn.nextInt();
